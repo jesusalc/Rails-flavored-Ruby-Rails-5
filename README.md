@@ -1,0 +1,2 @@
+# Rails-flavored-Ruby-Rails-5
+Grounded in examples from Chapter 3, this chapter explores some elements of the Ruby programming language that are important for Rails. Ruby is a big language, but fortunately the subset needed to be productive as a Rails developer is relatively small. It also differs somewhat from the usual material covered in an introduction to Ruby. https://www.railstutorial.org/book/rails_flavored_ruby
